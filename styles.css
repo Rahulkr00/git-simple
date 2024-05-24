@@ -1,0 +1,24 @@
+h1{
+    color: red;
+    text-align: center;
+    background-color: aqua;
+    
+    
+}
+
+.paragraph{
+    color: brown;
+}
+/* p{ */
+    /* color: blue;This is some comment */
+    /* font-weight: bolder; */
+/* } */
+
+#movie ,h2{
+    color: blueviolet;
+    background-color: blanchedalmond;
+}
+
+/*This is
+multiline
+comment*/
